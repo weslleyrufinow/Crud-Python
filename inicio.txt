@@ -1,0 +1,10 @@
+após instalar python e sqlitebrowser
+no CMD:
+
+C:\Python\venv\Scripts
+ python activate
+cd C:\Python
+ python manage.py runserver
+
+ python manage.py makemigrations
+ python manage.py migrate
